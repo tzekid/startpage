@@ -6,7 +6,7 @@ too much lately…
 
 Anyhow, dis here be a simple startpage with the following 'features' and todos:
 
-☑ page is pretty¹ lightweight
+☑ page is pretty¹ lightweight  
 ☑ shows date, time and greets you  
 ☑ links to **my** most used sites  
 
