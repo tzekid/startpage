@@ -10,7 +10,7 @@ Anyhow, dis here be a simple startpage with the following 'features' and todos:
 ☑ it shows date, time and greets you  
 ☑ it has links to sites I frequent  
 
-¹: it cold-loads in ~30ms 
+¹: it cold-loads in ~30ms locally
 
 I use [Change New Tab](https://chrome.google.com/webstore/detail/change-new-tab/mocklpfdimiadpbgamlgehpgpodggahe)
 to make it my new-tab page on Chrome. I dunno about
