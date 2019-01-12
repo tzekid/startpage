@@ -6,9 +6,9 @@ too much lately…
 
 Anyhow, dis here be a simple startpage with the following 'features' and todos:
 
-☑ page is pretty¹ lightweight  
-☑ shows date, time and greets you  
-☑ links to **my** most used sites  
+☑ keep it somewhat¹ lightweight  
+☑ it shows date, time and greets you  
+☑ it has links to sites I frequent  
 
 ¹: it cold-loads in ~30ms 
 
